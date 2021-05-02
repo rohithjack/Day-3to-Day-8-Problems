@@ -1,5 +1,8 @@
 package com.Day3;
 
+//By using classes,methods,objects
+
+
 
 import java.util.Scanner;
 import java.io.*;
